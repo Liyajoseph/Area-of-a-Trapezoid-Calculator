@@ -17,7 +17,7 @@ function area1 () {
 
   height = parseInt(height)
 
-  area = (base1 + base2)/2*height
+  area = (base1 + base2) / 2 * height
 
   alert(area)
 }
